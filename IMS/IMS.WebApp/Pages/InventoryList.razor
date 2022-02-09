@@ -1,4 +1,5 @@
 ﻿@page "/inventories"
+@inject NavigationManager nav
 
 <h3>InventoryList</h3>
 <br />
@@ -31,11 +32,19 @@
     </table>
 }
 
+<br />
+<button type="button" class="btn btn-primary" @onclick="AddInventory">Add Inventory</button>
+
 @code {
     private List<Inventory>? listInventories;
 
     private void OnSearchInventories(List<Inventory> inventories)
     {
         listInventories = inventories;
+    }
+
+    private void AddInventory()
+    {
+        nav.NavigateTo("/addinventory");
     }
 }

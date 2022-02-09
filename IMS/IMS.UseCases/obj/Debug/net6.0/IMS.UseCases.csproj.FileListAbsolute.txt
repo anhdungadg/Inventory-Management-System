@@ -13,3 +13,18 @@ E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS
 E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.dll
 E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\ref\IMS.UseCases.dll
 E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.pdb
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.deps.json
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.dll
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\bin\Debug\net6.0\ref\IMS.UseCases.dll
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.pdb
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.dll
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.AssemblyReference.cache
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfoInputs.cache
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfo.cs
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CoreCompileInputs.cache
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CopyComplete
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.dll
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\obj\Debug\net6.0\ref\IMS.UseCases.dll
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.pdb

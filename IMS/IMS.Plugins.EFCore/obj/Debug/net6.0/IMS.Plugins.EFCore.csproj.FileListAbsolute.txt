@@ -15,3 +15,20 @@ E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6
 E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.dll
 E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\ref\IMS.Plugins.EFCore.dll
 E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.pdb
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.Plugins.EFCore.deps.json
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.Plugins.EFCore.dll
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\ref\IMS.Plugins.EFCore.dll
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.Plugins.EFCore.pdb
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.CoreBusiness.dll
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.UseCases.dll
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.UseCases.pdb
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.csproj.AssemblyReference.cache
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.AssemblyInfoInputs.cache
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.AssemblyInfo.cs
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.csproj.CoreCompileInputs.cache
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.csproj.CopyComplete
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.dll
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\ref\IMS.Plugins.EFCore.dll
+D:\WorkingCopy\Inventory-Management-System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.pdb
