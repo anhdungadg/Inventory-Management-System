@@ -1,0 +1,17 @@
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.Plugins.EFCore.deps.json
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.Plugins.EFCore.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\ref\IMS.Plugins.EFCore.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.Plugins.EFCore.pdb
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.CoreBusiness.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.UseCases.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.UseCases.pdb
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.csproj.AssemblyReference.cache
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.AssemblyInfoInputs.cache
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.AssemblyInfo.cs
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.csproj.CoreCompileInputs.cache
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.csproj.CopyComplete
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\ref\IMS.Plugins.EFCore.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.Plugins.EFCore\obj\Debug\net6.0\IMS.Plugins.EFCore.pdb

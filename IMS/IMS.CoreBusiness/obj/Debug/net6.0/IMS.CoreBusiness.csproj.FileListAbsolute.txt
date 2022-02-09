@@ -1,0 +1,12 @@
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.deps.json
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\bin\Debug\net6.0\ref\IMS.CoreBusiness.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.AssemblyReference.cache
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.AssemblyInfo.cs
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\obj\Debug\net6.0\ref\IMS.CoreBusiness.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.CoreBusiness\obj\Debug\net6.0\IMS.CoreBusiness.pdb

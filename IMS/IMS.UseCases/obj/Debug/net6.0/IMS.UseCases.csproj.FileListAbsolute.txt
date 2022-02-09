@@ -1,0 +1,15 @@
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.deps.json
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\bin\Debug\net6.0\ref\IMS.UseCases.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.UseCases.pdb
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\bin\Debug\net6.0\IMS.CoreBusiness.pdb
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.AssemblyReference.cache
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfoInputs.cache
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.AssemblyInfo.cs
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CoreCompileInputs.cache
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.csproj.CopyComplete
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\ref\IMS.UseCases.dll
+E:\WorkingCopy\Inventory Management System\IMS\IMS.UseCases\obj\Debug\net6.0\IMS.UseCases.pdb
