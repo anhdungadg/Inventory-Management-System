@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {}
+    "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {}
   },
   "projects": {
-    "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+    "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectUniqueName": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "projectName": "IMS.CoreBusiness",
-        "projectPath": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
+        "projectPath": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj",
         "packagesPath": "C:\\Users\\cscss\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.CoreBusiness\\obj\\",
+        "outputPath": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.CoreBusiness\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cscss\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,18 +54,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {
+    "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
+        "projectUniqueName": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
         "projectName": "IMS.Plugins.EFCore",
-        "projectPath": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
+        "projectPath": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj",
         "packagesPath": "C:\\Users\\cscss\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.Plugins.EFCore\\obj\\",
+        "outputPath": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.Plugins.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cscss\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
-                "projectPath": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
+              "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+                "projectPath": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.UseCases\\IMS.UseCases.csproj"
               }
             }
           }
@@ -118,18 +118,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
+    "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.UseCases\\IMS.UseCases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectUniqueName": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
         "projectName": "IMS.UseCases",
-        "projectPath": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
+        "projectPath": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.UseCases\\IMS.UseCases.csproj",
         "packagesPath": "C:\\Users\\cscss\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.UseCases\\obj\\",
+        "outputPath": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.UseCases\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cscss\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,8 +146,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
-                "projectPath": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
+              "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj": {
+                "projectPath": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.CoreBusiness\\IMS.CoreBusiness.csproj"
               }
             }
           }
@@ -176,18 +176,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {
+    "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.WebApp\\IMS.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+        "projectUniqueName": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
         "projectName": "IMS.WebApp",
-        "projectPath": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
+        "projectPath": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.WebApp\\IMS.WebApp.csproj",
         "packagesPath": "C:\\Users\\cscss\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.WebApp\\obj\\",
+        "outputPath": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cscss\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -204,8 +204,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {
-                "projectPath": "D:\\WorkingCopy\\Inventory-Management-System\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj"
+              "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj": {
+                "projectPath": "E:\\WorkingCopy\\Inventory Management System\\IMS\\IMS.Plugins.EFCore\\IMS.Plugins.EFCore.csproj"
               }
             }
           }
@@ -263,7 +263,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
