@@ -21,5 +21,6 @@ namespace IMS.UseCases
         {
             return await this.inventoryRepository.GetInventoryByIdAsync(inventoryId);
         }
+
     }
 }
